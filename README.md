@@ -1,6 +1,6 @@
 # CarND-LaneLines-P1 
 ## Introduction
-This is the first project in Self-Driving Car Nano-Degree. See (here)[https://github.com/udacity/CarND-LaneLines-P1] for the original repo.  The goal of this project to detect two lanes given input images or videos. Two grading files are `P1.ipynb` and the section `reflection` in this document. Outputs are under folder **test_images_output** and **test_videos_output**.
+This is the first project in Self-Driving Car Nano-Degree. See [here](https://github.com/udacity/CarND-LaneLines-P1) for the original repo.  The goal of this project to detect two lanes given input images or videos. Two grading files are `P1.ipynb` and the section `reflection` in this document. Outputs are under folder **test_images_output** and **test_videos_output**.
 
 
 ## Reflection
